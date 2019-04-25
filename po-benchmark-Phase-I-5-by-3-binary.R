@@ -7,7 +7,7 @@
 # satisfied within each agent.
  
 # (!) The code requires the orderings to be specified (run file compute-orderings-5-by-3.R)
-
+ 
 #Defining the weights as defined in Equation (6)
 weight<-mat.or.vec(nrow(all.orderings),ncol(all.orderings))
 weight[which(all.orderings==1)]<-0
