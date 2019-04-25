@@ -1,4 +1,4 @@
-# This code can be used to reproduce the results in Table 2 (Section 4.2) of the paper
+# This code can be used to reproduce the results in Table 2 (Section 4.1) of the paper
 # ``A benchmark for dose finding studies with unknown ordering''
 # by Mozgunov, Paoletti, Jaki (2019)
 
