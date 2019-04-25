@@ -4,7 +4,7 @@
 
 # The code computes the benchmark for partial ordering for binary toxicity endpoints and continuous efficacy endpoint
 # with 4 doses of drug A and 2 doses of drug B, and the monotonicity assumption satisfied within each agent.
-
+ 
 # Defining the orderings
 orderings<-mat.or.vec(14,8)
 orderings[1,]<-c(1,2,3,4,5,6,7,8)
