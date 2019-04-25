@@ -5,7 +5,7 @@
 # The code computes the benchmark for partial ordering for binary toxicity endpoints
 # with 3 doses of drug A and 5 doses of drug B, and the monotonicity assumption
 # satisfied within each agent.
-
+ 
 # (!) The code requires the orderings to be specified (run file compute-orderings-5-by-3.R)
 
 #Defining the weights as defined in Equation (6)
